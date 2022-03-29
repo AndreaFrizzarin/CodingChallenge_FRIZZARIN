@@ -1,0 +1,61 @@
+
+/* CORPO PRINCIPALE */
+body {
+  width: 80%;
+  padding: 6%;
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+  font-family: 'Varela Round', sans-serif;
+}
+
+img {
+  width: 15%;
+  height: 15%;
+}
+
+
+/* BODY */
+header {
+  text-align: center;
+  color: lightgreen;
+}
+
+nav>div {
+  text-align: center;
+  background-color: lightgreen;
+  padding: 4px;
+  width: auto;
+  border-radius: 0px;
+}
+
+div  {
+  background: rgba(0,0,0,.5);
+  width: 100%;
+  padding: 6%;
+  border-radius: 68px;
+}
+
+.carica1 {
+  background-color: orange;
+  width: 45%;
+}
+.carica2 {
+  background-color: green;
+  width: 90%;
+}
+.carica3 {
+  background-color: red;
+  width: 18%;
+}
+
+section>div {
+  padding: 14px;;
+  text-align: left;
+  border-radius: 5px;
+}
+
+section>h1 {
+  display: inline-block;
+  margin-bottom: auto;
+}
